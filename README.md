@@ -25,4 +25,4 @@ We utilized web scraping and APIs to gather data from diverse online sources, ha
    - Explored the art of sculpting raw data into insights that empower organizations.
    - The GitHub repository contains the full code and details of our data engineering project.
   
-## for more explanation feel free to check out my blogpost draft on Medium about this project:[Medium Draft](https://medium.com/p/8bdb70e9d927/edit)
+## for more explanation feel free to check out my blogpost draft on Medium about this project:[Medium Draft](https://medium.com/@skkafawi/building-a-data-pipe-line-masterpiece-unveiling-the-journey-at-wbs-coding-school-8bdb70e9d927)
